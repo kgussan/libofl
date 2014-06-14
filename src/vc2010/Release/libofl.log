@@ -1,0 +1,19 @@
+﻿2014/06/14 22:59:00 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\koguchi\Documents\libofl\libofl\src\vc2010\libofl.vcxproj" (build ターゲット)。
+     1>PrepareForBuild:
+         ディレクトリ "C:\Users\koguchi\Documents\libofl\libofl\samples\dispObj\Release\" を作成しています。
+       InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Release\libofl.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         すべての出力が最新のものです。
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\koguchi\Documents\libofl\libofl\samples\dispObj\Release\libofl.lib" /NOLOGO /NODEFAULTLIB:LIBCMT /LTCG Release\ofl.obj
+         libofl.vcxproj -> C:\Users\koguchi\Documents\libofl\libofl\samples\dispObj\Release\libofl.lib
+       FinalizeBuildStatus:
+         ファイル "Release\libofl.unsuccessfulbuild" を削除しています。
+         "Release\libofl.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\koguchi\Documents\libofl\libofl\src\vc2010\libofl.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.54

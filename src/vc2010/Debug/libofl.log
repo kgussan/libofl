@@ -1,0 +1,21 @@
+﻿2014/06/14 1:26:24 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\koguchi\Documents\libofl\libofl\src\vc2010\libofl.vcxproj" (rebuild ターゲット)。
+     1>_PrepareForClean:
+         ファイル "Debug\libofl.lastbuildstate" を削除しています。
+       InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\libofl.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\ofl.cpp
+         ofl.cpp
+     1>c:\users\koguchi\documents\libofl\libofl\src\ofl.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\koguchi\Documents\libofl\libofl\samples\application\Debug\libofl.lib" /NOLOGO /NODEFAULTLIB Debug\ofl.obj
+         libofl.vcxproj -> C:\Users\koguchi\Documents\libofl\libofl\samples\application\Debug\libofl.lib
+       FinalizeBuildStatus:
+         ファイル "Debug\libofl.unsuccessfulbuild" を削除しています。
+         "Debug\libofl.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\koguchi\Documents\libofl\libofl\src\vc2010\libofl.vcxproj" (rebuild ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.68

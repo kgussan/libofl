@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3768E4A2-0CAA-463E-A9A4-81F3674E27C2}"
+	ProjectSection(SolutionItems) = preProject
+		readme_j.txt = readme_j.txt
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "obj2gb", "obj2gb.vcproj", "{DE0CF8F5-338A-4B85-8FF1-00AE0A1097A7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "obj2gbVerification", "verification\obj2gbVerification.vcproj", "{91ED753F-DB0A-478F-A81C-82C6B7174845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE0CF8F5-338A-4B85-8FF1-00AE0A1097A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DE0CF8F5-338A-4B85-8FF1-00AE0A1097A7}.Debug|Win32.Build.0 = Debug|Win32
+		{DE0CF8F5-338A-4B85-8FF1-00AE0A1097A7}.Release|Win32.ActiveCfg = Release|Win32
+		{DE0CF8F5-338A-4B85-8FF1-00AE0A1097A7}.Release|Win32.Build.0 = Release|Win32
+		{91ED753F-DB0A-478F-A81C-82C6B7174845}.Debug|Win32.ActiveCfg = Debug|Win32
+		{91ED753F-DB0A-478F-A81C-82C6B7174845}.Debug|Win32.Build.0 = Debug|Win32
+		{91ED753F-DB0A-478F-A81C-82C6B7174845}.Release|Win32.ActiveCfg = Release|Win32
+		{91ED753F-DB0A-478F-A81C-82C6B7174845}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
